@@ -1,1 +1,0 @@
-{"project":"base-passwd","type":"","version":" 3.5.52","hierarchy":"base","priority":"","maintainer":"","packager":"","builddeps":" dpkg-dev (\u003e= 1.15.7~), debhelper-compat (= 12), docbook-utils, dpkg (\u003e= 1.16.4), w3m, po4a, libdebconfclient0-dev, ","homepage":"","git":"https://salsa.debian.org/debian/base-passwd.git"}
